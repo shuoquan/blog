@@ -1,0 +1,71 @@
+.m-margin-tb-mini {
+  margin-top: 0.3em !important;
+  margin-bottom: 0.3em !important;
+}
+
+.m-padded-mini {
+  padding: 0.5em;
+}
+
+/*减少上下间距*/
+.m-padded-tb-mini {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+.m-padded-tb-large {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.m-padded-tb-massive {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.m-text-thin {
+  font-weight: 300;
+}
+
+.m-text-left {
+  text-align: left;
+}
+
+.m-text-spaced {
+  letter-spacing: 1px;
+}
+
+.m-text-lined {
+  line-height: 1.8;
+}
+
+.m-text-lined-small {
+  line-height: 1.6;
+}
+
+.m-opacity-mini {
+  opacity: 0.9;
+}
+
+.m-inline-block {
+  display: inline-block;
+}
+
+.m-text-color-black {
+  color: #333;
+}
+
+.m-container-small {
+  max-width: 60em;
+  margin: auto;
+}
+
+.m-padded-tr {
+  padding-left: 4em;
+  padding-right: 4em;
+}
+
+.m-shadow-small {
+  -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
+}
